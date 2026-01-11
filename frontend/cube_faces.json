@@ -1,0 +1,68 @@
+{
+    "F": [
+        "blue",
+        "green",
+        "yellow",
+        "white",
+        "orange",
+        "blue",
+        "green",
+        "red",
+        "orange"
+    ],
+    "R": [
+        "red",
+        "orange",
+        "white",
+        "blue",
+        "green",
+        "orange",
+        "green",
+        "green",
+        "orange"
+    ],
+    "B": [
+        "yellow",
+        "yellow",
+        "blue",
+        "orange",
+        "red",
+        "red",
+        "white",
+        "yellow",
+        "red"
+    ],
+    "L": [
+        "red",
+        "red",
+        "blue",
+        "white",
+        "blue",
+        "green",
+        "white",
+        "yellow",
+        "red"
+    ],
+    "U": [
+        "green",
+        "yellow",
+        "orange",
+        "white",
+        "yellow",
+        "blue",
+        "orange",
+        "blue",
+        "yellow"
+    ],
+    "D": [
+        "yellow",
+        "green",
+        "green",
+        "white",
+        "white",
+        "orange",
+        "white",
+        "red",
+        "blue"
+    ]
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rubik's Cube 3D Solver</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Three.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+
+    <!-- Orbit Controls -->
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+</head>
+<body>
+
+<div class="container">
+    <h1>Rubik's Cube 3D Solver</h1>
+
+    <div id="cubeContainer"></div>
+
+    <div class="controls">
+        <button id="nextBtn">Next ⟶</button>
+        <button id="autoBtn">▶ Auto Play</button>
+        <button id="resetBtn">⟲ Reset</button>
+    </div>
+
+    <div class="status">
+        <p>Move: <span id="moveCounter">0</span>/<span id="totalMoves">0</span></p>
+        <p id="currentMove">Current Move: -</p>
+    </div>
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
